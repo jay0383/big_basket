@@ -1,0 +1,106 @@
+{
+  "Product": [
+    {
+      "sno": 70604,
+      "name": "Potato",
+      "category": "Vegetable",
+      "imageUrl": "https://freepngimg.com/thumb/potato/7-potato-png-images-pictures-download-thumb.png",
+      "price": 45,
+      "qty": 25,
+      "id": 1
+    },
+    {
+      "sno": 70605,
+      "name": "Cabbage",
+      "category": "Vegetable",
+      "imageUrl": "https://freepngimg.com/thumb/cabbage/3-2-cabbage-picture.png",
+      "price": 16,
+      "qty": 35,
+      "id": 2
+    },
+    {
+      "sno": 70606,
+      "name": "Avacado",
+      "category": "Fruit",
+      "imageUrl": "https://freepngimg.com/thumb/avocado/7-2-avocado-transparent-thumb.png",
+      "price": 45,
+      "qty": 36,
+      "id": 3
+    },
+    {
+      "sno": 70607,
+      "price": 95,
+      "name": "Apple Red",
+      "category": "Fruit",
+      "imageUrl": "https://freepngimg.com/thumb/apple/7-2-apple-fruit-png-thumb.png",
+      "qty": 15,
+      "id": 4
+    },
+    {
+      "sno": 70708,
+      "name": "Orange",
+      "category": "Fruit",
+      "imageUrl": "https://freepngimg.com/thumb/orange/19-orange-png-image-download-thumb.png",
+      "price": 60,
+      "qty": 28,
+      "id": 5
+    },
+    {
+      "sno": 70709,
+      "price": 50,
+      "name": "Mango",
+      "category": "Fruit",
+      "qty": 40,
+      "imageUrl": "https://freepngimg.com/thumb/mango/9-2-mango-transparent-thumb.png",
+      "id": 6
+    },
+    {
+      "sno": 70710,
+      "price": 30,
+      "name": "Tomato",
+      "category": "Vegetable",
+      "qty": 12,
+      "imageUrl": "https://freepngimg.com/thumb/tomato/1-2-tomato-png-file-thumb.png",
+      "id": 7
+    },
+    {
+      "sno": 70711,
+      "name": "Pineapple",
+      "category": "Fruit",
+      "imageUrl": "https://www.realfruitpower.com/contentimage/contentimage7-8-201487558313.png",
+      "price": "95",
+      "qty": "58",
+      "id": 8
+    }
+  ],
+  "User": [
+    {
+      "name": "john doe",
+      "email": "john123@gmail.com",
+      "password": "123456",
+      "image": "https://thumbs.dreamstime.com/b/generic-person-gray-photo-placeholder-man-silhouette-white-background-144511705.jpg",
+      "id": 1
+    },
+    {
+      "name": "jane doe",
+      "email": "jane123@gmail.com",
+      "password": "jane123",
+      "Image": "https://cdn4.vectorstock.com/i/1000x1000/82/33/person-gray-photo-placeholder-woman-vector-24138233.jpg",
+      "id": 2
+    },
+    {
+      "name": "Shyam Rabadiya",
+      "email": "shyam123@gmail.com",
+      "password": "shyam123",
+      "Image": "https://media.istockphoto.com/id/1327592506/vector/default-avatar-photo-placeholder-icon-grey-profile-picture-business-man.jpg?s=612x612&w=0&k=20&c=BpR0FVaEa5F24GIw7K8nMWiiGmbb8qmhfkpXcp1dhQg=",
+      "id": 3
+    },
+    {
+      "name": "Shubham Rabadiya",
+      "email": "shubham123@gmail.com",
+      "password": "abcd123",
+      "Image": "https://media.istockphoto.com/id/1327592506/vector/default-avatar-photo-placeholder-icon-grey-profile-picture-business-man.jpg?s=612x612&w=0&k=20&c=BpR0FVaEa5F24GIw7K8nMWiiGmbb8qmhfkpXcp1dhQg=\"",
+      "id": 4
+    }
+  ]
+}
